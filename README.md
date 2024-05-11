@@ -12,7 +12,7 @@ Customer dashboard: Customers can order food, view their cart, and manage their 
 ## Setup
 Clone the repository:
 
-git clone <repository-url>
+git clone https://github.com/pashupati-singh/e-com-backend.git
 
 Install dependencies:
 
